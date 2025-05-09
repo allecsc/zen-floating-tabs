@@ -1,2 +1,2 @@
-# zen-floating-history
-Improves the history tab by matching the browser theme, make it floating, more responsive, and allow placing it on either side.
+# zen-floating-tabs
+Updated "Floating History" Zen Mod with transparency and now it also includes Bookmarks and Synced Tabs.
